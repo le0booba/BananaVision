@@ -1,0 +1,5 @@
+{
+  "name": "BananaVision Studio",
+  "description": "A powerful AI image generation and editing suite powered by Google's Nano Banana (Gemini) models. Create stunning visuals or modify existing images using natural language prompts.",
+  "requestFramePermissions": []
+}
